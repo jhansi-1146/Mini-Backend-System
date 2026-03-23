@@ -64,7 +64,7 @@ students.json: (Auto-generated) Stores the student data in a structured format.
 # Installation and setup:
 
 Clone the Repository
-https://github.com/jhansi-1146/Mini_-Backend_System.git
+https://github.com/jhansi-1146/Mini-Backend-System.git
 
 Prerequisites:
 Python 3.x installed on your system.
@@ -92,9 +92,9 @@ JSON Storage: Confirms that data can be written to and read from a file without 
 
 # Assumptions:
 
-Scores and attendance are provided as numeric values
-Passing threshold is set at 40 marks
-Maximum number of students is limited to 40
-Data is stored locally (no external database)
+Scores and attendance are provided as numeric values.
+Passing threshold is set at 40 marks.
+Maximum number of students is limited to 40.
+Data is stored locally (no external database).
 
 
