@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "ram",
+        "score": 98.0,
+        "attendance": 99.0
+    },
+    {
+        "id": "2",
+        "name": "sita",
+        "score": 85.0,
+        "attendance": 90.0
+    },
+    {
+        "id": "3",
+        "name": "gita",
+        "score": 40.0,
+        "attendance": 60.0
+    },
+    {
+        "id": "4 ",
+        "name": "kiran",
+        "score": 37.0,
+        "attendance": 40.0
+    },
+    {
+        "id": "5",
+        "name": "joy",
+        "score": 75.0,
+        "attendance": 80.0
+    },
+    {
+        "id": "6",
+        "name": "sri",
+        "score": 82.0,
+        "attendance": 75.0
+    },
+    {
+        "id": "7",
+        "name": "rani",
+        "score": 32.0,
+        "attendance": 50.0
+    }
+]
